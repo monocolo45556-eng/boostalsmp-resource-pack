@@ -1,0 +1,1 @@
+# boostalsmp-resource-pack
