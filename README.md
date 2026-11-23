@@ -15,9 +15,12 @@ from the Christmas 2025 source archive. The seven supplied item PNGs are used
 only as Bedrock inventory icons and are byte-for-byte preserved in v51. No
 Bedrock model geometry was added.
 
+Use the v3 Oraxen overlay: it equips the December Helmet with the modern `HEAD`
+equippable component. The previous v2 overlay used a deprecated hat mechanic.
+
 SHA-256:
 
 - Java v32: 9630d4563bf507d260a6931f62d2e6cfd3c8e41e81bf17b54eaeed3cb11e1696
 - Bedrock v51: f6a4e7d60bbfe57b94ff6a620769eb1b9f237c4fae4458c99ec3696ac55f0e2b
 - Geyser mapping: cbdc0863e0996f634913e6022dba3ed89e82437c4aa2079c552577ca39be043f
-- Oraxen overlay: 70eb4f1f82ffc2e90041913cf25aef08e9257c6b1a7def7cfe327a97e457e214
+- Oraxen overlay v3: a5e0c2ec0c63c2472155aa30dae6e02ee9e1bcc21de8a07990bd80df2d4bb8b5
